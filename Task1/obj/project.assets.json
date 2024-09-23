@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\01_CSHARP\\task1\\task1.csproj",
-      "projectName": "task1",
-      "projectPath": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\01_CSHARP\\task1\\task1.csproj",
+      "projectUniqueName": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\-GeekBrains-2\\01_CSHARP\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\-GeekBrains-2\\01_CSHARP\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\01_CSHARP\\task1\\obj\\",
+      "outputPath": "D:\\YandexDisk\\КУРСЫ\\Информационная Безопасность GeekBrains  2\\-GeekBrains-2\\01_CSHARP\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
